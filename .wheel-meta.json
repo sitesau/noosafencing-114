@@ -1,0 +1,22 @@
+{
+  "wheel_id": 929,
+  "structure": "umbrella",
+  "slug": "noosafencing-114",
+  "project": "fencing-contractors-noosa-signs-you-need-2941674b7377dc64e0d387",
+  "parent_t1_ref": "noosafencing-156",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa signs you need",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-noosa-signs-you-need-2941674b7377dc64e0d387/",
+  "tier": "T2",
+  "writeback_nonce": "fc3b9a550255b0fb",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/noosafencing-156/",
+      "anchor": "fencing contractors noosa how to choose explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
